@@ -1,2 +1,4 @@
 # hello-world
-This's a test repo for educational purposes
+## Learining R
+This's a test repo for educational purposes.
+I'm a *veterinarian* and an *ID* epidemiologist.
